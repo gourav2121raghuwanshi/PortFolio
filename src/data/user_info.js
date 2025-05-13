@@ -22,7 +22,7 @@ const info = {
         {
 			title: "FindYourHome",
 			description: "• Developed a real estate web application for buying, renting, and listing properties.",
-            technologies: " ReactJs, NodeJS, ExpressJs, MongoDB, TailWindCSS",
+            technologies: " ReactJs, NodeJS, ExpressJs, ML, MongoDB, Docker, Flask ,TailWindCSS",
 			github: "https://github.com/gourav2121raghuwanshi/ReatEstate-MERN",
             link: "https://findyourhome.vercel.app/"
 		},
